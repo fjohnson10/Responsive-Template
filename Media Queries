@@ -1,0 +1,18 @@
+@media (max-width:450px){
+	Body{background: #8e44ad;}
+}
+@media(min-width:451px) and (max-width:540px){
+	Body{background: #2980b9;}
+}
+@media(min-width:541px) and (max-width:768px){
+	Body{background: #27ae60;}
+}
+@media(min-width:769px) and (max-width:1024px){
+	Body{background: #16a085;}
+}
+@media(min-width:1025px) and (max-width:1200px){
+	Body{background:#c0392b;}
+}
+@media (minx-width:1201px){
+Body{background:#e74c3c;}
+}
